@@ -18,6 +18,7 @@ return {
             { "<leader>z", group = "Zettelkasten" },
             { "<leader>c", group = "Code / LSP" },
             { "<leader>l", group = "LaTeX / VimTeX" },
+            { "<leader>h", group = "Harpoon" },
         })
     end,
 }
