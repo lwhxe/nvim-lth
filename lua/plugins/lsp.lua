@@ -22,6 +22,7 @@ return {
                 "html",
                 "cssls",
                 "texlab",
+                "asm_lsp",
             },
         },
     },
